@@ -1,2 +1,2 @@
-Hello this is the first test! Hello
+Hello this is the first test!
 
